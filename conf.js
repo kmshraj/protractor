@@ -6,9 +6,9 @@ exports.config = {
 		params: {
     login: {
       user: 'kameshrrajendran@gmail.com',
-      pwd: 'Sheela_233005',
+      pwd: '**********',
 	  invaliduser: 'kmshraj@tmail.com',
-	  invalidpassword: 'Try2Win3'
+	  invalidpassword: '*********'
 	  
     },
 	link: {
